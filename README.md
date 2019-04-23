@@ -10,3 +10,5 @@
 4. Experiencia Profesional
 5. Idiomas
 6. Habilidades Técnicas
+
+Edición
