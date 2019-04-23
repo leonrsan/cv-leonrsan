@@ -14,7 +14,7 @@
 
 ## Enlaces
 
-- GitHub Guide: ```https://guides.github.com/activities/hello-world/```
-- GitHub Learning Lab: ```https://lab.github.com/courses```
-- GitHub Desktop: ```https://desktop.github.com/```
-- Atom: ```https://atom.io/```
+- GitHub Guide: https://guides.github.com/activities/hello-world/
+- GitHub Learning Lab: https://lab.github.com/courses
+- GitHub Desktop: https://desktop.github.com/
+- Atom: https://atom.io/
