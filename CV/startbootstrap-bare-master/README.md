@@ -1,8 +1,8 @@
 # Acerca de mí:
-Imágen
-Nombre Completo
-Email
-Usuario de Github
+-Imágen
+-Nombre Completo
+-Email
+-Usuario de Github
 
 # Formación Académica
 
