@@ -2,10 +2,10 @@
 
 1. Clonar el repositorio: ```git clone https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git```
 2. Acerca de mí:
-- Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+2.1 Imágen
+2.2 Nombre Completo
+2.3 Email
+2.4 Usuario de Github
 3. Formación Académica
 4. Experiencia Profesional
 5. Idiomas
