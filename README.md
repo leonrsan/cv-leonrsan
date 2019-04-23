@@ -10,3 +10,4 @@
 4. Experiencia Profesional
 5. Idiomas
 6. Habilidades Técnicas
+7. Agregar repositorio a CV
