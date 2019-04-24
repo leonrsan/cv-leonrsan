@@ -11,7 +11,7 @@
 5. Idiomas
 6. Habilidades Técnicas
 7. Agregar directorio con su proyecto
-8. Agregar descripción de los puntos anteriores en un archivo README.md como se muestra en el [ejemplo.md]https://github.com/danjrosales/Pagina-personal-CV/blob/master/ejemplo.md
+8. Editar el archivo [description.md](https://github.com/danjrosales/Pagina-personal-CV/blob/master/description.md), agregando la información correspondiente
 
 ## Enlaces
 
