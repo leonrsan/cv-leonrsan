@@ -10,7 +10,8 @@
 4. Experiencia Profesional
 5. Idiomas
 6. Habilidades Técnicas
-7. Agregar repositorio a CV
+7. Agregar directorio con su proyecto
+8. Agregar descripción de los puntos anteriores en un archivo README.md como se muestra en el ejemplo.md
 
 ## Enlaces
 
