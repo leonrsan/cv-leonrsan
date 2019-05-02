@@ -1,4 +1,4 @@
-Santibañez ramirez Alan Leonardo ![leonardo_cv.jpg][logo]
+Santibañez ramirez Alan Leonardo ![logo][leonardo_cv.jpg]
 santibanezleonardo1Q@gmail.com
 leonrsan
 
