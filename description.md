@@ -1,18 +1,22 @@
-# Acerca de mí:
-- Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+Santibañez ramirez Alan Leonardo
+santibanezleonardo1
+leonrsan
 
-# Formación Académica
+FORMACION ACADEMICA
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
-# Experiencia Profesional
+-2016 licenciatura en Informática 
+ estudiante de 6to semestre
+-2015 Escuela Nacional Preparatoria 9 "Pedro de Alba"
+-2013 Escuela secundaria "Rufino Tamayo"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
-# Idiomas
+EXPERIENCIA PROFESIONAL.
+-ninguna
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
-# Habilidades Técnicas
+IDIOMAS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+-Ingles 65%
+-Español (Nativo)
+
+HABILIDADES TÉCNICAS
+
+-Manejo de paqueteria office
